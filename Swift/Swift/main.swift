@@ -9,3 +9,10 @@ import Foundation
 
 print("Hello, World!")
 
+var v = 123
+v += 5
+print(v)
+
+
+let v2 = 234
+print(v2)
